@@ -1,6 +1,7 @@
 ```bash
-MoltenCore is based on AzerothCore.
-
+MoltenCore is based on AzerothCore latest.
+Revision:
+https://github.com/azerothcore/azerothcore-wotlk/commit/d5bee6e2a359564918f62124f36205905ae56a81
 Windows ≥ 10
 Boost ≥ 1.78
 MySQL ≥ 8.0 (Recommended 8.4)
